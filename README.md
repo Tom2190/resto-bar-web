@@ -1,12 +1,14 @@
 # Resto Bar Web
 
 ## Introduccion
-Trabajo practico de _Programacion de Nuebas Tecnologias_.
+
+Trabajo practico de _Programacion de Nuevas Tecnologias_.
 
 (comentario de prueba)
 
 ## Integrantes
-- Priscila
-- Tomas
-- Luciana 
-- Ignacio
+
+- Priscila Bey
+- Tomás Fernández
+- Luciana Serena Ciancio
+- Ignacio Soldavia
