@@ -17,24 +17,26 @@ header {
 /* logo styles */
 .logo {
 	background-color: white;
-	width: 100px;
-    height: 100px;
+	width: 200px;
+    height: 200px;
     border-radius: 50%;
 }
 
 /* img styles */
-img {
-  width: 100px;
-  height: 100px;
+.logo img {
+  width: 200px;
+  height: 200px;
 }
 
 /* font styles */
 h1 {
 	font-family: 'Bebas Neue', cursive;
+	font-size: 50px;
 	color: white;
     background-color: #283e4d;
     padding: 0px 10px;
     margin-top: 15px;
+    letter-spacing: 1px;
 }
 /*  */
 section {
@@ -48,8 +50,7 @@ section {
 	background-color: white;
 	margin: 0 auto;
 	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-	padding: 0px 20px;
-	padding-bottom: 60px;
+	padding: 30px 20px;
 }
 
 .titulo-seccion{
@@ -74,4 +75,27 @@ section {
 	border-bottom: 2px dotted;
 	padding-bottom: 5px;
 	margin-bottom: 5px;
+}
+
+footer {
+	background-color: #cec3d6;
+	display: flex;
+	justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.ig-logo{
+	 width: 40px;
+	 height: 40px;
+}
+
+.contacto{
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+}
+
+.contacto p{
+	padding-top: 5px;
 }
