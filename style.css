@@ -36,7 +36,42 @@ h1 {
     padding: 0px 10px;
     margin-top: 15px;
 }
+/*  */
+section {
+	background-color: #cec3d6;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+/*  */
+.menu-container {
+	width: 80%;
+	background-color: white;
+	margin: 0 auto;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	padding: 0px 20px;
+	padding-bottom: 60px;
+}
 
+.titulo-seccion{
+	padding: 10px 0px 5px;
+	border-bottom: 2px solid #a62947;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px;
+	letter-spacing: 1px;
+	color: #a62947;
+}
 
+.comidas{
+	list-style: none;
+	padding-top: 10px;
+	font-size: 24px;
+	font-family: sans-serif;
+}
 
-
+.comidas li{
+	display:flex;
+	justify-content: space-between;
+	border-bottom: 2px dotted;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
